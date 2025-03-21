@@ -1,8 +1,8 @@
 # Comfortanalyst-Portfolio-
+# Data Entry and Analysis
 A collection of data entry and data analysis projects showcasing my skills in Excel, data cleaning, web scraping, data verification, as well as tableau, python, SQL for data analysis, visualizations and reporting.
 
-# Data Entry and Analysis Portfolio  
-This repository showcases my data entry and analysis skills through various projects, including:  
+  
 
 ## Projects  
 ### 1. Excel Data Cleaning  
