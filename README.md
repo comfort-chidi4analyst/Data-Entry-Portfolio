@@ -20,4 +20,4 @@ A collection of data entry and data analysis projects showcasing my skills in Ex
 
 ### 📌 Contact  
 📧 Email: comfortchidi05@gmail.com  
-📂 [LinkedIn Profile](your-linkedin-profile)  
+📂 [LinkedIn Profile](https://www.linkedin.com/in/comfort-chidi4analyst)  
