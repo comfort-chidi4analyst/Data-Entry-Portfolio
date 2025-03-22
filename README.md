@@ -6,7 +6,7 @@ A collection of data entry projects showcasing my skills in Excel, data cleaning
 ## Projects  
 ### 1. Excel Data Cleaning  
 - Cleaned customer data by removing duplicates, correcting formatting, and filling missing values.  
-- 📂 [View Project Files]SuperStore_Orders_MessyData.png)  
+- 📂 [View Project Files]Excel-Data-Cleaning/)  
 
 ### 2. Manual Data Entry  
 - Converted scanned documents into structured Excel data.  
