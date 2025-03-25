@@ -72,26 +72,8 @@
     <div class="project">
         <h2>Excel Data Cleaning</h2>
         <p>Removed duplicates, formatted data, and handled missing values.</p>
-            <div class="image-container">
-        <img id="toggleImage" src="before.jpg" alt="Before Image">
-    </div>
-    <button class="toggle-btn" onclick="toggleImage()">View After</button>
 
-    <script>
-        let isBefore = true;
-        function toggleImage() {
-            const image = document.getElementById('toggleImage');
-            const button = document.querySelector('.toggle-btn');
-            if (isBefore) {
-                image.src = 'after.jpg';
-                button.textContent = 'View Before';
-            } else {
-                image.src = 'before.jpg';
-                button.textContent = 'View After';
-            }
-            isBefore = !isBefore;
-        }
-    </script>
+        
         <a href="Excel-Data-Cleaning/cleaned_data.xlsx" download>Download Project</a>
     </div>
 
