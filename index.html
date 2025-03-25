@@ -58,6 +58,28 @@
             padding: 15px;
             margin-top: 20px;
         }
+
+                .container1 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            margin-top: 50px;
+        }
+        .image-container {
+            text-align: center;
+        }
+        img {
+            width: 300px;
+            height: auto;
+            border: 2px solid #000;
+            border-radius: 8px;
+        }
+        .caption {
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
@@ -72,7 +94,17 @@
     <div class="project">
         <h2>Excel Data Cleaning</h2>
         <p>Removed duplicates, formatted data, and handled missing values.</p>
-
+        
+    <div class="container1">
+        <div class="image-container">
+            <img src="images/before.jpg" alt="Before Image">
+            <div class="caption">Before</div>
+        </div>
+        <div class="image-container">
+            <img src="images/after.jpg" alt="After Image">
+            <div class="caption">After</div>
+        </div>
+    </div>
         
         <a href="Excel-Data-Cleaning/cleaned_data.xlsx" download>Download Project</a>
     </div>
